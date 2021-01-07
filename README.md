@@ -3,7 +3,7 @@ Actualmente me encuentro cursando el segundo año de la carrera de Analista de s
 Certificaciones:
 HTML,
 CSS,
-Javasctrip,
+JavaScript,
 Python,
 SQL,
 Java,
