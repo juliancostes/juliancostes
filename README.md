@@ -1,5 +1,3 @@
-Actualmente me encuentro cursando el segundo año de la carrera de Analista de sistemas en busqueda de mi primer empleo IT
-
 Certificaciones:
 HTML,
 CSS,
